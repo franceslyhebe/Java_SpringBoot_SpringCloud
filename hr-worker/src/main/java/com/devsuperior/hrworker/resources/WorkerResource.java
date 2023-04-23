@@ -38,4 +38,9 @@ public class WorkerResource {
         Worker worker = repository.findById(id).get();
         return ResponseEntity.ok(worker);
     }
+
+    @GetMapping(value = "/configs")
+    public String getConfig(){
+        return "Ta batendo aqui";
+    }
 }
