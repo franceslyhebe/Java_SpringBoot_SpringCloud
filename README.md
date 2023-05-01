@@ -9,4 +9,5 @@ Visão geral do sistema:
 <p> Fase 1: Comunicação simples, Feign, Ribbon
 <p> Fase 2: Eureka, Hystrix, Zuul
 <p> Fase 3: Configuração centralizada
-<p> Fase 4: autenticação e autorização
+<p> Fase 4: Autenticação e autorização
+<p> Fase 5: Docker
